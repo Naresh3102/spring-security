@@ -44,3 +44,8 @@ Welcome to my Spring Security practice repository! This repository contains my l
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/spring-security-practice.git
+2. Run the Spring Boot application
+   ```bash
+   ./mvnw spring-boot:run
+
+## Happy coding!😊
